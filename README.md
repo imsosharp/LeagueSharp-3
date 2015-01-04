@@ -1,4 +1,4 @@
-Oh so this is how github works eh? Hmm anyways... this is modified version of EvadeLicense
+Oh so this is how github works eh? Hmm anyways... this is modified version of Evade&nbspLicense
 =================
 Copyright 2014 - 2014 LeagueSharp
 Esk0r/LeagueSharp is free software: you can redistribute it and/or modify
